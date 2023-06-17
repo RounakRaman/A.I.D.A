@@ -1,0 +1,5 @@
+Write detailed notes of the following in the hyphenated list format like "-"
+
+<<INPUT>>
+
+NOTES:
